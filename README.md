@@ -7,3 +7,5 @@ This is a repository for Deocker container having:
 * GCloud
 * Hashicorp Terraform
 * Python 2.7.16(Added for GCloud, Bonus if you want to use :) )
+
+- Pushed To Dockerhub
